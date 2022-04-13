@@ -1,6 +1,7 @@
 ## Seja Bem Vindo! Me chamo Matheus Farias :)
-
+<div align="center">
 Sou Engenheiro Civil e sempre fui apaixonado por tecnologia e pelo mundo da computação 💻
+</div>
 <div align="center">
   <a href="https://github.com/MatheusDEV2022">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDEV2022&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
