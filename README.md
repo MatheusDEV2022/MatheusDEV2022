@@ -11,7 +11,7 @@
 <h3>Linguagens e Tecnologias: </h3>
 <div style="display: inline_block"><br>
   Check ✅:
-  <a href="https://github.com/MatheusDEV2022">
+  <a>
     <img align="center" alt="Mat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    </a>
   <a>
