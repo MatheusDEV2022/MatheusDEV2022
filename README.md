@@ -26,6 +26,9 @@
   <a>
     <img align="center" alt="Mat-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
   </a>  
+  <a>
+    <img align="center" alt="Mat-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  </a>  
                 
 </div>
 
