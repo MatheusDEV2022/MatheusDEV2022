@@ -1,9 +1,4 @@
 ## Seja Bem Vindo! Me chamo Matheus Farias :)
-<div align="center">
-  <a href="https://github.com/MatheusDEV2022">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDEV2022&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>  
-</div>
 
 ##
 
