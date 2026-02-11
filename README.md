@@ -1,7 +1,5 @@
 ## Seja Bem Vindo! Me chamo Matheus Farias :)
 
-##
-
 <h3>Linguagens e Tecnologias: </h3>
 <div style="display: inline_block"><br>
   Check ✅:
